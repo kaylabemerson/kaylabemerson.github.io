@@ -85,15 +85,13 @@ main {
 	background-image: url(../images/grass_background.jpg);
 	background-repeat: no-repeat;
     background-size: 100% auto;
-    padding: 0;
+    padding: 45px;
 }
 
 .ellas {
 	width: 712.156px;
 	padding:0;
 	margin: 40px auto;
-	padding-top: 60px;
-	padding-bottom: 60px;
 
 }
 
